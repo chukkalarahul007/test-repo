@@ -1,0 +1,4 @@
+  This is the Gamma .txt
+
+  I actually created this to check the SSh authentication after i placed the 
+  SSH public key in my Settings > SSH GPG keys
